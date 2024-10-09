@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661325022799",
+    "project_id": "fir-app-d8ba1",
+    "storage_bucket": "fir-app-d8ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661325022799:android:788b81e52ef36e404e8c3a",
+        "android_client_info": {
+          "package_name": "com.mariods.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGz86f11WhQBFcz-oZfVAMVHr-dp2Aow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
