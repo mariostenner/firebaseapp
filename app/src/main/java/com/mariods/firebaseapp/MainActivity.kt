@@ -40,7 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         text = "Hello $name!",
         modifier = modifier.fillMaxSize()
             .clickable {
-                throw RuntimeException("Error de prueba con firebase")
+                throw RuntimeException("Error de prueba con firebase y crashlytics")
             }
     )
 }
